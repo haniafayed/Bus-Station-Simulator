@@ -1,0 +1,6 @@
+1888,Bus,External,Cairo,Alexandria,15/4/2019,6:00,One Way,2,21,John Doe,210
+2345,Mini Bus,Internal,El Montaza,Loran,17/4/2019,13:00,Round Trip,7,4,Adam Smith,35
+1673,Mini Bus,Internal,Smouha,ElShatby,17/4/2019,17:00,One Way,2,3,John Doe,20
+3562,Car,External,Cairo,Port Said,23/4/2019,8:30,Round Trip,0,0,Mark Brown,120
+4444,Bus,Internal,Sporting,Gleem,23/4/2019,21:20,One Way,10,14,Adam Smith,48
+2929,Bus,External,Alexandria,Marsa Matrouh,30/4/2019,9:00,Round Trip,0,9,John Doe,95
